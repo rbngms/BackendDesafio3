@@ -1,0 +1,20 @@
+-
+  {
+    "id": 1,
+    "tittle": " Coca cola",
+    "precio": 10,
+    "thumbnail": "cocacola.png"
+  },
+  {
+    "id": 2,
+    "tittle": " budweiser",
+    "precio": 45,
+    "thumbnail": "budweiser.png"
+  },
+  {
+    "tittle": "Fanta",
+    "precio": 10,
+    "thumbnail": "Fanta.png",
+    "id": 3
+  }
+]
